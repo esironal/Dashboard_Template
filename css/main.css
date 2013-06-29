@@ -555,3 +555,7 @@ html.no-touch .nav-item>button:hover, .nav-item>button.is-active {
     width:10%;
     z-index:99999999;
 }
+
+.chartcontainer {
+    margin-top: 20px;
+}
