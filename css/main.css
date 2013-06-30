@@ -545,7 +545,7 @@ html.no-touch .nav-item>button:hover, .nav-item>button.is-active {
 }
 
 .topspace {
-    padding-top: 80px;
+    padding-top: 60px;
 }
 
 #selector {
@@ -557,5 +557,5 @@ html.no-touch .nav-item>button:hover, .nav-item>button.is-active {
 }
 
 .chartcontainer {
-    margin-top: 20px;
+    margin-top: 30px;
 }
