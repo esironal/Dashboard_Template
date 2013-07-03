@@ -556,6 +556,27 @@ html.no-touch .nav-item>button:hover, .nav-item>button.is-active {
     z-index:99999999;
 }
 
-.chartcontainer {
-    margin-top: 30px;
+
+/*.chart-wrapper {*/
+/* clear: none;    */
+/* position: relative;*/
+/*    padding-bottom: 25%;*/
+/*}*/
+
+/*.chart-inner {*/
+/*position: absolute;*/
+/*    width: 100%; height: 0;*/
+/*}*/
+
+/*.chart {*/
+/*    width: 100%;*/
+/*    height: 100%;*/
+/*}*/
+
+.toprow {
+    padding-top: 5%;
+}
+
+.toprow2 {
+    padding-top: 3%;
 }

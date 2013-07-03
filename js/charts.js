@@ -25,6 +25,9 @@ chart1 = new Highcharts.Chart({
     credits: {
         enabled: false
     },
+    legend: {
+        enabled: false   
+    },
 	title: {
 		text: 'Fruit Consumption'
 	},
@@ -54,6 +57,9 @@ chart2 = new Highcharts.Chart({
 	},
     credits: {
         enabled: false
+    },
+    legend: {
+        enabled: false   
     },
 	title: {
 		text: 'Fruit Consumption'
@@ -87,6 +93,9 @@ chart3 = new Highcharts.Chart({
     credits: {
         enabled: false
     },
+    legend: {
+        enabled: false   
+    },
 	title: {
 		text: 'Fruit Consumption'
 	},
@@ -116,6 +125,9 @@ chart4 = new Highcharts.Chart({
 	},
     credits: {
         enabled: false
+    },
+    legend: {
+        enabled: false   
     },
 	title: {
 		text: 'Fruit Consumption'
